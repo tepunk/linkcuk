@@ -1,0 +1,2 @@
+# linkcuk
+Safe
